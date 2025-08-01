@@ -6,4 +6,9 @@
 }
 .icecream1 {
     margin: 10px 250px;
+    font-size: large;
+}
+
+.image1 {
+    transform: rotate(90);
 }
