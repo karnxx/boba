@@ -10,5 +10,12 @@
 }
 
 .image1 {
-    transform: rotate(90);
+    transform: rotate(90deg);
+    border-radius: 10px 10px 0 0;
+}
+
+.creammy {
+    font-size: 35px;
+    margin-left: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
 }
