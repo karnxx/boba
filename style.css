@@ -15,5 +15,8 @@
 .image1 {
     transform: rotate(90deg);
     border-radius: 10px 10px 0 0;
+    align-items:center;
+    margin:auto;
+    display:block;
 }
 
